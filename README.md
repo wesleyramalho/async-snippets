@@ -1,4 +1,4 @@
-# Dealing with asynchronous code with JS
+# Dealing with asynchronous code in JS
 Asynchronous code snippets in JavaScript
 
 ## Async and Await example
